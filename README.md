@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raul60rc
 - 👀 I’m interested in stocks,options, derivatives & programming
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
